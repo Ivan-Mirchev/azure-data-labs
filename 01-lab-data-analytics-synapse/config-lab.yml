@@ -5,7 +5,7 @@ variables:
 
   # Global
   prefix: "itgldl"
-  postfix: "01"
+  postfix: "02"
   location: "northeurope"
 
   # Feature flags
