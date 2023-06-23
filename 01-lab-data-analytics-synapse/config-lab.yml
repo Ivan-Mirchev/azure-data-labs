@@ -4,8 +4,8 @@
 variables:
 
   # Global
-  prefix: "adlt"
-  postfix: "011"
+  prefix: "itgl-adlt"
+  postfix: ""
   location: "northeurope"
 
   # Feature flags
@@ -21,8 +21,8 @@ variables:
   enable_ade_deployment: "false"
 
   # Terraform remote storage
-  terraform_st_resource_group: rg-adl-terraform-state
-  terraform_st_storage_account: stadlterraformstate
+  terraform_st_resource_group: itgl-tf-state-rg
+  terraform_st_storage_account: itgltfstatestrgacc
 
   # Internals - do not touch
   az_cli_version: 2.45.0
