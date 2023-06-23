@@ -14,7 +14,7 @@ variables:
   enable_analysis_services_server: "false"
   enable_data_factory: "false"
   enable_synapse_sql_pool: "false"
-  enable_synapse_spark_pool: "false"
+  enable_synapse_spark_pool: "true"
   enable_event_hub: "false"
   
   # Enable ADE based deployment
