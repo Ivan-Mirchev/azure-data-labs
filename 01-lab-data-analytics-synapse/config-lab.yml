@@ -4,8 +4,8 @@
 variables:
 
   # Global
-  prefix: "itgl-adlt"
-  postfix: ""
+  prefix: "itgladlt"
+  postfix: "111"
   location: "northeurope"
 
   # Feature flags
